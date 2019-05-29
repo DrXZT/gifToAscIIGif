@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/drxzt/AnimatedGifEncoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/drxzt/GIFtoAscII.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/drxzt/ImgToCharacter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/drxzt/JpgToGif.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/KUNKUN.gif" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
