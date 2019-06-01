@@ -12,7 +12,7 @@ g.fillRect(0, 0, oneCharImg.getWidth(), oneCharImg.getHeight());
 g.setColor(Color.BLACK);
 g.setFont(new Font("黑体", Font.BOLD, 15));
 ```
-再更具图像的像素，以4个像素为一个点算出该点的平均RGB深度，更具平均RGB颜色深度在一下Ascii符号中经行选择
+再更具图像的像素，以4*4个像素为一个点算出该点的平均RGB深度，更具平均RGB颜色深度在一下Ascii符号中经行选择
 ```
 private static String[] chars= {" ",".",":",";","-","~","1","i","o","r","a",
 "2","c","3","b","n","q","k","x","S","X",
